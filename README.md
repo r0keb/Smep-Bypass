@@ -1,2 +1,2 @@
 # Smep-Bypass
-Various techniques used to bypass SMEP in the Windows Kernel.
+The code explained on my blog post [SMEP Bypass](https://r0keb.github.io/posts/Bypassing-SMEP/)
